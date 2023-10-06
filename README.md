@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=charlsjon&" alt="charlsjon" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=charlsjon&show_icons=true&locale=en" alt="charlsjon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlsjon&show_icons=true&locale=en" alt="charlsjon" /></p>
 
 
