@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlsjon" alt="charlsjon" /></a> </p>
 
-<img align="right" alt="I Like Pressing Buttons" width="400" src="https://giphy.com/embed/CuuSHzuc0O166MRfjt"> 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 - ⚡ Fun fact **I love cats**
 
