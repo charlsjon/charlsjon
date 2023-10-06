@@ -1,13 +1,14 @@
+[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://i.pinimg.com)
+
 <h1 align="center">Hi 👋, I'm Charls</h1>
 <h3 align="center">A passionate frontend developer from Batangas, Philippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlsjon" alt="charlsjon" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="right" alt="coding" width="200px" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 - ⚡ Fun fact **I love cats**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
