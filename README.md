@@ -1,7 +1,7 @@
 
 # Hello World! I'm Charls
 # 💫 About Me:
-💻 Front-end Web Developer <br/>
+💻 Front-end **Web Developer** <br/>
  ⚡ Fun fact **I love cats** <br/>
  ✍️ I am **Still Learning**
 
